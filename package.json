@@ -1,7 +1,7 @@
 {
     "name": "dom-essentials",
     "description": "Everything ready to deal with the DOM.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "index.js",
     "repository": {
         "type": "git",
@@ -9,7 +9,8 @@
     },
     "dependencies": {
         "dom-manipulations": "0.1.x",
-        "iter-shims": "0.1.x"
+        "iter-shims": "0.1.x",
+        "by": "0.2.x"
     },
     "author": "Florian Margaine <florian@margaine.com>"
 }

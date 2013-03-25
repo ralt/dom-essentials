@@ -2,5 +2,6 @@
 
 module.exports = {
     iter: require('./iter'),
-    manip: require('./manip')
+    manip: require('./manip'),
+    by: require('./by')
 };
