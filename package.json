@@ -10,7 +10,8 @@
     "dependencies": {
         "dom-manipulations": "0.1.x",
         "iter-shims": "0.1.x",
-        "by": "0.2.x"
+        "by": "0.2.x",
+        "xhr": "0.3.x"
     },
     "author": "Florian Margaine <florian@margaine.com>"
 }
