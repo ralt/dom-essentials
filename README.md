@@ -24,6 +24,8 @@ Modules available
 
 - [dom-manipulations](https://github.com/Ralt/dom-manipulations): `manip`
 - [iter-shims](https://github.com/Ralt/iter-shims): `iter`
+- [by](https://github.com/Raynos/by): `by`
+- [xhr](https://github.com/Raynos/xhr): `xhr`
 
 Contributors
 ---
