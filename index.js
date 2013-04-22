@@ -4,5 +4,6 @@ module.exports = {
     iter: require('./iter'),
     manip: require('./manip'),
     by: require('./by'),
-    xhr: require('./xhr')
+    xhr: require('./xhr'),
+    classList: require('./classList')
 };
