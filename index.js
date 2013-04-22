@@ -6,5 +6,6 @@ module.exports = {
     by: require('./by'),
     xhr: require('./xhr'),
     classList: require('./classList'),
-    indexOf: require('./indexOf')
+    indexOf: require('./indexOf'),
+    listeners: require('./listeners')
 };
