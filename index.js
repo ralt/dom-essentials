@@ -5,5 +5,6 @@ module.exports = {
     manip: require('./manip'),
     by: require('./by'),
     xhr: require('./xhr'),
-    classList: require('./classList')
+    classList: require('./classList'),
+    indexOf: require('./indexOf')
 };

@@ -1,7 +1,7 @@
 {
     "name": "dom-essentials",
     "description": "Everything ready to deal with the DOM.",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "main": "index.js",
     "repository": {
         "type": "git",
@@ -12,7 +12,8 @@
         "iter-shims": "0.1.x",
         "by-shim": "0.3.x",
         "xhr": "0.3.x",
-        "class-list-shim": "0.1.x"
+        "class-list-shim": "0.1.x",
+        "indexof-shim": "0.1.x"
     },
     "author": "Florian Margaine <florian@margaine.com>"
 }
